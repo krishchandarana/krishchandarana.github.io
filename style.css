@@ -338,8 +338,8 @@ NOTE: This is main stylesheet of the template.
      overflow: hidden;
      padding: 14px 24px;
      letter-spacing: 1px;
-     background-color: rgba(0,0,0,.0001);
-     color: #333;
+     background-color: #333;
+     color: #fff;
      text-align: center;
      text-transform: uppercase;
      border: 2px solid transparent;
