@@ -375,30 +375,47 @@
 
                      <div class="row">
                          <div class="col-md-8 col-md-offset-2 col-sm-12">
-                             <form action="https://formspree.io/myrjzprx" method="POST" class="form" id="contact-form">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <input id="form_name" type="text" class="form-control" name="name" placeholder="Name" autocomplete="name">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <input id="form_email" type="email" name="email" placeholder="Email" class="form-control" autocomplete="email">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <textarea id="form_message" name="comments" placeholder="Message" rows="4" class="form-control"></textarea>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-12 text-center">
-                                         <!--<button type="submit"><span>Send</span></button>-->
-                                         <input type="submit" value="SUBMIT" class="btn btn-custom">
-                                    </div> 
-                            </div>
-                        </form>
+                               <div class="contact-form">
+                                  <form id="contact-form" method="post" action="https://formspree.io/myrjzprx">
+                                  <div class="messages"></div>
+                                     <div class="controls">
+                                         <div class="row">
+                                             <div class="col-md-6">
+                                                 <div class="form-group">
+                                                     <input id="form_name" type="text" name="name" class="form-control" placeholder="Name*" required="required" data-error="Name is required.">
+                                                     <div class="help-block with-errors"></div>
+                                                 </div>
+                                             </div>
+                                             <div class="col-md-6">
+                                                 <div class="form-group">
+                                                     <input id="form_email" type="email" name="email" class="form-control" placeholder="Email*" required="required" data-error="Valid email is required.">
+                                                     <div class="help-block with-errors"></div>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                         <div class="row">
+                                              <div class="col-md-12">
+                                                 <div class="form-group">
+                                                     <input id="form_subject" type="text" name="subject" class="form-control" placeholder="Subject*" required="required" data-error="Valid email is required.">
+                                                     <div class="help-block with-errors"></div>
+                                                 </div>
+                                             </div>
+                                         </div>
+                                         <div class="row">
+                                             <div class="col-md-12">
+                                                 <div class="form-group">
+                                                     <textarea id="form_message" name="message" class="form-control" placeholder="Message*" rows="7" required data-error="Please,leave us a message."></textarea>
+                                                     <div class="help-block with-errors"></div>
+                                                 </div>
+                                             </div>
+                                             <div class="col-md-12">
+                                                 <input type="submit" class="btn btn-effect btn-sent theme-color" value="Send message">
+                                             </div>
+                                         </div>
+                                     </div>
+                                 </form>
+                               </div>
+                          </div>
                       </div><!--/.row-->
             <!--         <div class="contact-space"></div>
 
@@ -420,7 +437,7 @@
                                  <div class="col-md-3 col-sm-3 text-center wow fadeInUp" data-wow-delay="0.6s">
                                      <div class="single-address">
                                          <h4>Email Address:</h4>
-                                         <p>krishchandarane7@gmail.com</p>
+                                         <p>krishchandarane7@gmail.com.com</p>
                                      </div>
                                  </div>
                                  <div class="col-md-3 col-sm-3 text-center wow fadeInUp" data-wow-delay="0.4s">
