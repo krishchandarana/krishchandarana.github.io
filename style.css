@@ -333,13 +333,13 @@ NOTE: This is main stylesheet of the template.
  a.btn, .btn-comment {
      border-radius: 0 !important;
      cursor: pointer;
-     font-size: 12px;
+     font-size: 16px;
      font-weight: 700 !important;
      overflow: hidden;
      padding: 14px 24px;
      letter-spacing: 1px;
-     background-color: #222;
-     color: #ffffff;
+     background-color: rgba(0,0,0,.0001);
+     color: #333;
      text-align: center;
      text-transform: uppercase;
      border: 2px solid transparent;
