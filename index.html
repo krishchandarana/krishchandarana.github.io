@@ -379,41 +379,29 @@
                                      action="https://formspree.io/myrjzprx"
                                      method="POST"
                                      >
-                                     <div class="controls">
-                                         <div class="row">
-                                             <div class="col-md-6">
-                                                 <div class="form-group">
-                                                     <input id="form_name" type="text" name="name" class="form-control" placeholder="Name*" required="required" data-error="Name is required.">
-                                                     <div class="help-block with-errors"></div>
-                                                 </div>
-                                             </div>
-                                             <div class="col-md-6">
-                                                 <div class="form-group">
-                                                     <input id="form_email" type="email" name="email" class="form-control" placeholder="Email*" required="required" data-error="Valid email is required.">
-                                                     <div class="help-block with-errors"></div>
-                                                 </div>
-                                             </div>
-                                          </div>
-                                         <div class="row">
-                                              <div class="col-md-12">
-                                                 <div class="form-group">
-                                                     <input id="form_subject" type="text" name="subject" class="form-control" placeholder="Subject*" required="required" data-error="Valid email is required.">
-                                                     <div class="help-block with-errors"></div>
-                                                 </div>
-                                             </div>
-                                         </div>
-                                         <div class="row">
-                                             <div class="col-md-12">
-                                                 <div class="form-group">
-                                                     <textarea id="form_message" name="message" class="form-control" placeholder="Message*" rows="7" required data-error="Please,leave us a message."></textarea>
-                                                     <div class="help-block with-errors"></div>
-                                                 </div>
-                                             </div>
-                                             <div class="col-md-12">
-                                                 <button type="submit"><input type="submit" class="btn btn-effect btn-sent theme-color" value="Send message"></button>
-                                             </div>
-                                         </div>
-                                     </div>
+                                  
+                                     <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input id="form_name" type="text" class="form-control" name="name" placeholder="Name" autocomplete="name">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <input id="form_email" type="email" name="email" placeholder="Email" class="form-control" autocomplete="email">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <textarea id="form_message" name="comments" placeholder="Message" rows="4" class="form-control"></textarea>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-12 text-center">
+                                         <!--<button type="submit"><span>Send</span></button>-->
+                                         <input type="submit" value="SUBMIT" class="btn btn-custom">
+                                    </div> 
+                        </div>
                                  </form>
                                </div>
                           </div>
