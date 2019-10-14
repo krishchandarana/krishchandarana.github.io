@@ -319,6 +319,18 @@ h4 {
     color: #fff;
 }
 
+.btn.welcome-btn2{
+    background-color: #222;
+    border: 2px solid transparent;
+    color: #fff;
+    margin-top: 35px;
+}
+.btn.welcome-btn2:hover{
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+
  /*================================================
              5 ABOUT AREA
 ==================================================*/
