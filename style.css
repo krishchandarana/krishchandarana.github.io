@@ -46,7 +46,6 @@ NOTE: This is main stylesheet of the template.
      height: auto;
  }
  h1,
- h2,
  h3,
  h4,
  h5,
@@ -54,7 +53,15 @@ NOTE: This is main stylesheet of the template.
      font-family: 'Montserrat', sans-serif;
      margin: 0 0 15px;
      font-weight: 700;
-     color: #fff;
+     color: #222;
+     line-height: 1.4;
+ }
+
+h2 {
+     font-family: 'Montserrat', sans-serif;
+     margin: 0 0 15px;
+     font-weight: 700;
+     color: #222;
      line-height: 1.4;
  }
  p {
