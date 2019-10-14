@@ -326,7 +326,7 @@ h4 {
     margin-top: 35px;
 }
 .btn.welcome-btn2:hover{
-    border: 2px solid #fff;
+    border: 2px solid #222;
     color: #222;
 }
 
@@ -833,7 +833,7 @@ ul.work-list li:hover, ul.work-list li.active{
 }
 .social-link li a:hover{
     background: transparent;
-    border: 2px solid #fff;
+    border: 2px solid #222;
     color: #222;
 }
 
