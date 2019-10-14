@@ -805,7 +805,7 @@ ul.work-list li:hover, ul.work-list li.active{
  }
  .social-link li a {
 	border-radius: 50%;
-	color: #222;
+	color: #fff;
 	display: inline-block;
 	font-size: 16px;
 	margin-right: 5px;
@@ -814,7 +814,7 @@ ul.work-list li:hover, ul.work-list li.active{
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 	height: 35px;
-	background: #fff;
+	background: #222;
 	line-height: 35px;
     border: 2px solid transparent;
 }
