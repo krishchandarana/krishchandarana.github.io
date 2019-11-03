@@ -44,6 +44,24 @@ NOTE: This is the custom jQuery file for the template
             event.preventDefault();
           });
         });
+        
+        /*======================================
+        Arrow Thingy
+    ========================================*/
+        
+           var arrowBounce = function() {
+            var arrow = $(".arrow");
+            if (arrow.hasClass("lift")) {
+                arrow.removeClass("lift");
+            } else {
+                arrow.addClass("lift");
+            }
+        };
+
+        setInterval(arrowBounce, 800);
+
+        
+        
 
     /*======================================
         jquery scroll spy
