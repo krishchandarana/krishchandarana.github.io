@@ -100,7 +100,7 @@
         <!--===== END HEADER AREA ======-->
 
         <!--======= WELCOME AREA =======-->
-        <div id="home" class="welcome-area" data-stellar-background-ratio="0.6" style="background-image: url(assets/img/work/skincancerproject.jpg);">
+        <div id="home" class="welcome-area" data-stellar-background-ratio="0.6" style="background-image: url(assets/img/work/SpatialTrans.png);">
            <div class="welcome-table">
                <div class="welcome-cell">
                     <div class="container">
@@ -137,9 +137,9 @@
                             
                 <p>Neural Networks are not able to do anything to an image that you input.</p> 
                   
-                  <p>That is a probelm as many of the times we need to crop a region of interst or scale the image. When we try to use neural networks to train a model for object detection, it may not be able to train if the picutre of a person is upside down. This can cause many problems to the final result of a model that is being trained.</p>
+                  <p>That is a probelm as many times we need to crop a region of interst or scale the image. When we try to use neural networks to train a model for object detection, it may not be able to train if the image of a person is upside down. This can cause many problems for the final result, due to the model having a tough time being trained</p>
                       
-                      <p>In order to solve this problem you need to use a <strong>spatial transformer network (STN).</strong>What this does is it allows the neural network to do things like crop a region of interest in the image or even correct the orientation of the image.</p>
+                      <p>In order to solve this problem you need to use a <strong>spatial transformer network (STN).</strong> What this does is it allows the neural network to spatially transform and image, which allows the neural network to do things like crop a region of interest in the image or even correct the orientation of the image.</p>
                       
                   <p>Check below to learn more about what I did with spatial transformer networks!</p>
                       
@@ -169,9 +169,9 @@
                                  <h2>How I Used Spatial Transformer Networks.</h2>
                             </div> 
                             
-                <p>After realizing the problem, I trained a model in order to be able to perform a spatial transformation on any image of a number between 1-9.</p> 
+                <p>After realizing the problem, I trained a model in order to perform a spatial transformation on any image of a number between 1-9.</p> 
                   
-                  <p>I used Pytorch in order to train the model to perform the spatial transformation on the images. The dataset is a public dataset, MNSIT. The dataset consits of a grid with images of numbers between 1-9, and the image may not be the easiest t interpret before the spatial transformation. The model is able to rotate, crop, and scale the image based on what is needed to make the number visually appealing to the user.</p>
+                  <p>I used Pytorch in order to train the model to perform the spatial transformation on the images. The dataset is a public dataset, MNSIT. The dataset consits of a grid with images of numbers between 1-9, and the image may not be the easiest to interpret before the spatial transformation. The model is able to rotate, crop, and scale the image based on what is needed to make the number visually appealing to the user.</p>
                       
                       <p>Making this model was such an awesome project, and I had a great time doing it. Even though the end result was super cool, the best part of implementing the model was actually programming it. Despite the programming part not being straigh-foward, it was a great challenge in order to figure out the way each and every error the code had could be fixed.  If you would like to see the code for the model created, click the button down below!</p>
                       
