@@ -132,16 +132,16 @@
                         <!--About Content-->
                         <div class="about-content">
                             <div class="about-heading">
-                                 <h2>What Is A Spatial Transformer Network?</h2>
+                                 <h2>Why I Built A Review Analyzer?</h2>
                             </div> 
                             
-                <p>Neural Networks are not able to do anything to an image that you input.</p> 
+                <p>Online shopping is become more and more popular each day.</p> 
                   
-                  <p>That is a probelm as many times we need to crop a region of interst or scale the image. When we try to use neural networks to train a model for object detection, it may not be able to train if the image of a person is upside down. This can cause many problems for the final result, due to the model having a tough time being trained</p>
+                  <p>With online shopping become more popular, people will be dependant on one main factor when purchasing products online, which is reviews. Reviews of a product are what people depend on because they are not able to see the product first hand, therefore it leads them to depend on the opinions of people that actually have the product. </p>
                       
-                      <p>In order to solve this problem you need to use a <strong>spatial transformer network (STN).</strong> What this does is it allows the neural network to spatially transform and image, which allows the neural network to do things like crop a region of interest in the image or even correct the orientation of the image.</p>
+                      <p>After a survey conducted on twitter on which 100+ people voted, <strong>many people strongly depend on reivews.</strong> The problem is that when a customer is looking at reviews, many times you might miss out on valubale reivews and only see the fake reviews. A solution needs to be made in order to ensure that a customer is able to understand all reviews without comprimising on time.</p>
                       
-                  <p>Check below to learn more about what I did with spatial transformer networks!</p>
+                  <p>Check below to learn more about how I helped customers understand reviews without comprimising on time!</p>
                       
                             
                         </div>
@@ -166,20 +166,19 @@
                         <!--About Content-->
                         <div class="about-content">
                             <div class="about-heading">
-                                 <h2>How I Used Spatial Transformer Networks.</h2>
+                                 <h2>How I Built A Review Analyzer?</h2>
                             </div> 
                             
-                <p>After realizing the problem, I trained a model in order to perform a spatial transformation on any image of a number between 1-9.</p> 
+                <p>After realizing the problem, I decided to build an algorithim  to analyze reviews for a product, and provide the customer with an understanding of the most common words in reviews, for both positive comments and negative comments.</p> 
                   
-                  <p>I used Pytorch in order to train the model to perform the spatial transformation on the images. The dataset is a public dataset, MNSIT. The dataset consits of a grid with images of numbers between 1-9, and the image may not be the easiest to interpret before the spatial transformation. The model is able to rotate, crop, and scale the image based on what is needed to make the number visually appealing to the user.</p>
+                  <p>I used Natural Language Proccessing (NLP) in order to perform text analysis on the reviews, and the program was built using python. The first step for the program is to look at the star rating of the review and detect the number of stars, and if the program detects 2 or less stars then the review will be classified as negative, however if the program detects 4 or more stars then the review will be classified as positive. In most reviews the number of stars the rating is out of is 5. Once the program has seperated the negative and positive reivews, it performs text analysis, and it captures the most common postive and negative words to describe the product and outputs the results in a word map for the customer to see. There are two word maps for the customer to see, one for negative and the other for positive, and the bigger the word on the word map, the more times it was mentioned. This gives the customer a basic understanding of all the positive and negative words used to describe the product.</p>
                       
-                      <p>Making this model was such an awesome project, and I had a great time doing it. Even though the end result was super cool, the best part of implementing the model was actually programming it. Despite the programming part not being straigh-foward, it was a great challenge in order to figure out the way each and every error the code had could be fixed.  If you would like to see the code for the model created, click the button down below!</p>
-                      
+                      <p>Making this model was such an awesome project, and I had a great time doing it. The end result was super cool, however the best part of implementing the model was actually programming it. Hopefully, this algorithim can help customers make the right desicion for them when purchasing a product online. If you would like to read the article for the algorithim created, click the button down below!</p>
                             
                             <span class="about-button">
-                                <a class="btn welcome-btn2" href="https://github.com/krishchandarana/SpatialTransformationNetwork" target="_blank">Code For The Model!</a>
+                                <a class="btn welcome-btn2" href="https://github.com/krishchandarana/SpatialTransformationNetwork" target="_blank">Article For The Algorithim!</a>
                          </span>
-
+    
                         </div>
                     </div>
                 </div>
