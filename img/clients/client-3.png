@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="css/main.css" type="text/css">
 
     <script src="js/modernizr.custom.js"></script>
-  <script async src='cdn-cgi/bm/cv/669835187/api.js'></script></head>
+  <script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
 
   <body>
     <!-- Animated Background -->
@@ -179,7 +179,7 @@
 
                           <li>
                             <span class="title">e-mail</span>
-                            <span class="value"><a href="cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="40252d21292c002538212d302c256e232f2d">[email&#160;protected]</a></span>
+                            <span class="value"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dabfb7bbb3b69abfa2bbb7aab6bff4b9b5b7">[email&#160;protected]</a></span>
                           </li>
 
                           <li>
@@ -1036,7 +1036,7 @@
 
                       <div class="lm-info-block gray-default">
                         <i class="lnr lnr-envelope"></i>
-                        <h4><a href="cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e6878a839ea6839e878b968a83c885898b">[email&#160;protected]</a></h4>
+                        <h4><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="56373a332e16332e373b263a337835393b">[email&#160;protected]</a></h4>
                         <span class="lm-info-block-value"></span>
                         <span class="lm-info-block-text"></span>
                       </div>
@@ -1056,7 +1056,7 @@
                     <div class="col-xs-12 col-sm-8">
                       <div id="map" class="map">
                           <div class="lmpixels-map">
-                            	<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="maps?q=San%20Francisco%2C%20S601%20Townsend%20Street%2C%20California%2C%20USA&amp;amp;t=m&amp;amp;z=16&amp;amp;output=embed&amp;amp;iwloc=near&amp;output=embed"></iframe>
+                            	<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=San%20Francisco%2C%20S601%20Townsend%20Street%2C%20California%2C%20USA&amp;amp;t=m&amp;amp;z=16&amp;amp;output=embed&amp;amp;iwloc=near&amp;output=embed"></iframe>
                             </div>
                       </div>
                       <div class="block-title">
@@ -1119,7 +1119,7 @@
       </div>
     </div>
 
-    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery-2.1.3.min.js"></script>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery-2.1.3.min.js"></script>
     <script src="js/modernizr.custom.js"></script>
     <script src="js/animating.js"></script>
 
@@ -1134,6 +1134,6 @@
 
     <script src="js/validator.js"></script>
     <script src="js/main.js"></script>
-  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'65158159cc4e1a88',m:'a8889c8ca57b47eb3087f7f411b3c9bbb9ec8958-1621345310-1800-AXGVjydvFTwUMCwWQs1Exyg0kWdD5/7XmONbpdQ/HaKbot3lftQ/aYDNJvbF9wQk79s9SYFvwynyJr4a1QCjkJeuTn6+CMiGhGcNjKBwychnltiG+SNq7GnSJsnoWlVNSnlF5FM9OSUBB4cxdF0AIbniaEGcRjPtoKGuYdxPF+pd',s:[0x9ea6aab8ac,0x6238330040],}})();</script><script defer src="beacon.min.js" data-cf-beacon='{"rayId":"65158159cc4e1a88","version":"2021.5.1","r":1,"token":"94b99c0576dc45bf9d669fb5e9256829","si":10}'></script>
+  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'651581ae6cc718c6',m:'763083fabb81f2badf5bf5d1f278e81172e4182e-1621345323-1800-AfuVmgSLQWHzjC12k9Fc8Mm7zDexGLr0NFanMYGIhp0rjiDvIqdPBDOg4DUxVQxgxIsIO5wJ09pYJURbbC611bwpQOTEfrBBiHh6GfoF1+ortWq9A8jTiV8d6I6VjLbYIJ9bhd60cFhgDJi4rMZmAC+ur/L5H2s0u20z80Jbo1d4',s:[0x22b1c71f22,0xfa8b7821ee],}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"651581ae6cc718c6","version":"2021.5.1","r":1,"token":"94b99c0576dc45bf9d669fb5e9256829","si":10}'></script>
 </body>
 </html>
