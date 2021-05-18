@@ -179,7 +179,7 @@
 
                           <li>
                             <span class="title">e-mail</span>
-                            <span class="value"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="086d65696164486d70696578646d266b6765">[email&#160;protected]</a></span>
+                            <span class="value"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="30555d51595c705548515d405c551e535f5d">[email&#160;protected]</a></span>
                           </li>
 
                           <li>
@@ -1036,7 +1036,7 @@
 
                       <div class="lm-info-block gray-default">
                         <i class="lnr lnr-envelope"></i>
-                        <h4><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7d1c1118053d18051c100d1118531e1210">[email&#160;protected]</a></h4>
+                        <h4><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b9d8d5dcc1f9dcc1d8d4c9d5dc97dad6d4">[email&#160;protected]</a></h4>
                         <span class="lm-info-block-value"></span>
                         <span class="lm-info-block-text"></span>
                       </div>
@@ -1134,6 +1134,6 @@
 
     <script src="js/validator.js"></script>
     <script src="js/main.js"></script>
-  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'651581976ca418f8',m:'b6acb40a782cd1bb271180f9ba901ce324a88a49-1621345320-1800-AYhVGg8fb6hQI7DtwJ59flIeDvoOlhIkicEbg3WxYuglqPSsDCHl/RuNkvjeN0126zEDt6SruGlWHNY1a0mkXugZpiBB8paCAWRWOl/6e+AA05VGEdW6dLcjEMjzqykEbDlrMdmVocgvDaUOQmL2VUGuA1qzSz6s3cHOz6zzUUw6',s:[0x1afda0a9c4,0x681cfa5952],}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"651581976ca418f8","version":"2021.5.1","r":1,"token":"94b99c0576dc45bf9d669fb5e9256829","si":10}'></script>
+  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'65158f3fba00c3a4',m:'9ba343ae6ff71572474e4058353ad42007d2b582-1621345879-1800-AV8IbD46j8KGkAtkG6EoB0NT8D+FBiG7h78+k6Jc/Mss9sCZJFZNbpGkcTmbYwxOayKM1Ww1Og7rp5aDWeD9FA86mHc7fRFZ2wIu+DJvChElG1yCtiZu50Ne9JCVSOXm7sq0kIwmduUoQdUA3H9NDq+1A+JpuZUY779WKAb7yChb',s:[0xba1b7a5fb8,0x253785556a],}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"65158f3fba00c3a4","version":"2021.5.1","r":1,"token":"94b99c0576dc45bf9d669fb5e9256829","si":10}'></script>
 </body>
 </html>
