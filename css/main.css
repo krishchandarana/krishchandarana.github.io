@@ -2066,10 +2066,10 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .portfolio-page-carousel .owl-nav [class*='owl-'] {
-  color: #9e9e9e;
+  color: #ffffff;
   margin: 0;
   padding: 4px 7px;
-  background: #fff;
+  background: #000;
   display: inline-block;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-in-out;
